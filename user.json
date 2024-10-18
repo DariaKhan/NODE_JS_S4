@@ -33,5 +33,12 @@
     "secondName": "Bubkin",
     "age": 5,
     "city": "New York"
+  },
+  {
+    "id": 6,
+    "firstName": "Zita",
+    "secondName": "Gita",
+    "age": 18,
+    "city": "Mumbai"
   }
 ]
