@@ -1,0 +1,16 @@
+{
+  "name": "node_js_s4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1",
+    "joi": "^17.13.3"
+  }
+}
